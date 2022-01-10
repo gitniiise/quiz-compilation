@@ -33,3 +33,16 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.box {
+ float: left;
+ width: 32%;
+ margin-right: 2%;
+ padding: 20px;
+ background: #eee;
+ box-sizing: border-box;
+}
+
+.box:last-child {
+     margin-right: 0;
+}
