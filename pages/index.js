@@ -13,8 +13,11 @@ export default function Home() {
       <main>
         <Header title="Willkommen zu deiner Quiz-Sammlung XXL!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Hier steht ein cooler Text zu unserem Quiz für di Spieleleiter (dich)!
         </p>
+        <div class="box1">Quiz 1</div>
+        <div class="box2">Quiz 2</div>
+        <div class="box3">Quiz 3</div>
       </main>
 
       <Footer />
